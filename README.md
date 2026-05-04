@@ -75,31 +75,11 @@ npm start
 
 ---
 
-## 🔑 Environment Variables
-
-If you're using an API key, create a `.env` file in the root directory:
-
-```
-REACT_APP_API_KEY=your_api_key_here
-```
-
----
-
 ## 📌 Usage
 
 1. Enter a city name in the search bar
 2. Press enter or click search
 3. View real-time weather details
-
----
-
-## 🧠 Future Improvements
-
-* 🌐 Add geolocation support
-* 🌙 Dark / Light mode toggle
-* 📅 5-day weather forecast
-* 🔍 Search suggestions
-* 📊 Charts for weather trends
 
 ---
 
